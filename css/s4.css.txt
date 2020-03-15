@@ -1,0 +1,8 @@
+.wrap {
+		width: 50%;
+		margin: 250px auto;
+		padding: 20px;
+		font-size: 30px;
+		line-height: 1.3em;
+		text-align: center;
+	}
